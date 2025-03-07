@@ -1,0 +1,25 @@
+.card {
+  width: 300px;
+  height: 400px;
+  background-color: #fcf6f5;
+  padding: 20px;
+  color: #990011;
+  border-radius: 2rem;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card h2 {
+  font-size: 32;
+  margin-top: 8px;
+}
+
+.card p {
+  font-size: 24;
+}
+
+.logo {
+  top: 10px; 
+  left: 10px; 
+  width: 50px;
+  height: auto; 
+}

@@ -1,0 +1,39 @@
+
+.article-container {
+  width: 30%;
+  margin: 10px;
+  border-radius: 20px;
+  text-align: center;
+  display: inline-block;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.article-container:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+}
+
+.article-container img.foto {
+  max-width: 100%;
+  height: 280px;
+  border-radius: 20px;
+  transition: transform 0.3s ease;
+}
+
+.article-container h3 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.article-container small {
+  display: block;
+  margin-top: 10px;
+}
+
+.article-container .status {
+  font-weight: bold;
+  color: #990011;
+}

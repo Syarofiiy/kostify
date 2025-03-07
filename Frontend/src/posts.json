@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Kost Faza Danau Ranau G5 E34",
+    "room": ["2"],
+    "price": "Rp. 950.000 / bulan",
+    "isNew": true,
+    "image": "https://binabangunbangsa.com/wp-content/uploads/2020/03/tips-Manajemen-Rumah-Kost-yang-Baik-dan-Benar-.jpg",
+    "features": {
+      "luasKamar": "20m2",
+      "kamarMandi": "Dalam",
+      "wifi": true,
+      "lemari": true,
+      "kasur": true,
+      "meja": true
+    }
+  },
+  {
+    "title": "Kost Fazi Danau Ranau G5 E34",
+    "room": ["4"],
+    "price": "Rp. 1.350.000 / bulan",
+    "isNew": false,
+    "image": "https://office.mitrarenov.com/assets/main/images/news/93cf29661239b41f5cc393e112ef7a39.jpg",
+    "features": {
+      "luasKamar": "20m2",
+      "kamarMandi": "Dalam",
+      "wifi": true,
+      "lemari": true,
+      "kasur": true,
+      "meja": true
+    }
+  },
+  {
+    "title": "Kost Fazu Danau Ranau G5 E34",
+    "room": ["3"],
+    "price": "Rp. 2.000.000 / bulan",
+    "isNew": false,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihqfCMia03aJ7zlnWSuhYihMdh3A6IPCc5m4kKNPy47n9zPAU6VmZ8n3YNJWZ5cK5SJC__HO8VCGiim16htJlXvrQP2InhSnykBQ_ekkMOzpZMsBjmVa_pbLTahwqtiZHNRAJx9bt1ZK4zfwlvmMPeq3P1czW_uzqgpGGCvlW_HP-p8QdmW3zAiFJz/w0/IMG_20221120_232225.jpg",
+    "features": {
+      "luasKamar": "20m2",
+      "kamarMandi": "Dalam",
+      "wifi": true,
+      "lemari": true,
+      "kasur": true,
+      "meja": true
+    }
+  },
+  {
+    "title": "Kost Bu Putu Danau Ranau IX G7c NO.8",
+    "room": ["1"],
+    "price": "Rp. 1.000.000 / bulan",
+    "isNew": false,
+    "image": "https://storage.googleapis.com/finansialku_media/wordpress_media/2018/02/Ketahui-Manajemen-Rumah-Kost-Dengan-Baik-dan-Benar-01-Finansialku.jpg",
+    "features": {
+      "luasKamar": "20m2",
+      "kamarMandi": "Dalam",
+      "wifi": true,
+      "lemari": true,
+      "kasur": true,
+      "meja": true
+    }
+  },
+  {
+    "title": "Kost Pak Aman Danau Ranau Blok G6F2",
+    "room": ["5"],
+    "price": "Rp. 1.200.000 / bulan",
+    "isNew": false,
+    "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2mPwnpsgnH3teIrBwckyhA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=147.66452&pitch=0&thumbfov=100",
+    "features": {
+      "luasKamar": "20m2",
+      "kamarMandi": "Dalam",
+      "wifi": true,
+      "lemari": true,
+      "kasur": true,
+      "meja": true
+    }
+  },
+  {
+    "title": "Kost Bunda Weny Danau Toba IV H2a NO.3",
+    "room": ["2"],
+    "price": "Rp. 950.000 / bulan",
+    "isNew": false,
+    "image": "https://media.cove.sg/34610/conversions/Cove-Cherry-Homes---Public-Area-small.jpg",
+    "features": {
+      "luasKamar": "20m2",
+      "kamarMandi": "Dalam",
+      "wifi": true,
+      "lemari": true,
+      "kasur": true,
+      "meja": true
+    }
+  }
+]

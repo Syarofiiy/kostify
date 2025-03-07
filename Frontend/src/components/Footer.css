@@ -1,0 +1,36 @@
+.footer {
+    text-align: center;
+    padding: 40px;
+    background-color: #990011;
+  }
+  
+  .footer-logo img {
+    max-width: 100px;
+    margin-bottom: 10px;
+  }
+  
+  .footer-links {
+    margin: 10px 0;
+  }
+  
+  .footer-links a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #fcf6f5;
+  }
+  
+  .footer-links span {
+    margin: 0 5px;
+    color: #fcf6f5;
+  }
+  
+  .footer-social a {
+    margin: 0 10px;
+  }
+  
+  .footer-social img {
+    margin-top: 20px;
+    width: 30px;
+    height: 30px;
+  }
+  
